@@ -16,6 +16,7 @@
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "lodash": "^4.17.11",
+    "macos-export-certificate-and-key": "^1.0.0",
     "mongodb": "^4.11.0",
     "mongoose": "^6.7.0",
     "mongosh": "^1.6.0"
